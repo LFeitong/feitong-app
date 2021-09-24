@@ -1,5 +1,8 @@
-import { Col } from "react-bootstrap"
+import { Button,Col } from "react-bootstrap"
 
 export function CardViewer(): JSX.Element{
-    return <Col>Recipe Viewer</Col>
+    return <Col>
+    <h1> </h1>
+    <Button>Control Panel</Button>
+    </Col>
 }
