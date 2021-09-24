@@ -1,0 +1,28 @@
+
+
+[
+    {
+        "ID":1,
+        "Kind":"Brunch",
+        "Ingredients":"2 cups all-purpose flour, 1 teaspoon salt,4 teaspoons baking powder",
+        "Directions":"string"
+    },
+    {
+        "ID":2,
+        "Kind":"MainDishes",
+        "Ingredients":"2 cups all-purpose flour, 1 teaspoon salt,",
+        "Directions":"string"
+    },
+    {
+        "ID":3,
+        "Kind":"Desserts",
+        "Ingredients":"2 cups all-purpose flour, 1 teaspoon salt,",
+        "Directions":"string"
+    },
+    {
+        "ID":3,
+        "Kind":"Drinks",
+        "Ingredients":"2 cups all-purpose flour, 1 teaspoon salt,",
+        "Directions":"string"
+    }
+]
